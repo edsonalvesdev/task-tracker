@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Description": "new first task",
+    "Status": "done",
+    "CreatedAt": "2026-02-10T16:34:38.4150415-03:00",
+    "UpdatedAt": "2026-02-11T16:06:44.9754329-03:00",
+    "Deleted": false
+  },
+  {
+    "Id": 2,
+    "Description": "second task",
+    "Status": "todo",
+    "CreatedAt": "2026-02-10T16:39:05.326346-03:00",
+    "UpdatedAt": null,
+    "Deleted": true
+  },
+  {
+    "Id": 3,
+    "Description": "new task three",
+    "Status": "in-progress",
+    "CreatedAt": "2026-02-11T16:05:31.0787843-03:00",
+    "UpdatedAt": "2026-02-11T16:07:18.8766871-03:00",
+    "Deleted": false
+  },
+  {
+    "Id": 4,
+    "Description": "new task four",
+    "Status": "todo",
+    "CreatedAt": "2026-02-11T16:05:53.6288827-03:00",
+    "UpdatedAt": null,
+    "Deleted": false
+  },
+  {
+    "Id": 5,
+    "Description": "new task five",
+    "Status": "todo",
+    "CreatedAt": "2026-02-11T16:06:26.9514058-03:00",
+    "UpdatedAt": null,
+    "Deleted": false
+  }
+]
